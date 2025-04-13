@@ -22,6 +22,7 @@ This simple Python script automatically generates a random password and an email
 5.User can continue or exit the loop.
 
 📌 Why This is Useful
+
 ##Ensures consistency and uniqueness in email creation
 
 ##Combines user-specific input with randomness for strong passwords
